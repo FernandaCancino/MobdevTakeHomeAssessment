@@ -1,4 +1,4 @@
-import { Navigate, Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import { MdOutlineCatchingPokemon } from 'react-icons/md';
 import { PokemonList } from './pokemons/components/PokemonList';
 import { PokemonDetail } from './pokemons';
